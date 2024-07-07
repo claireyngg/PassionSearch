@@ -1,5 +1,5 @@
 <p style="text-align: center;"><h1>PassionSearch</h1></p>
-PassionSearch is a website that strives to help students look for opportunities relevant to his or her interests.
+PassionSearch is a website that strives to help students look for opportunities relevant to their interests.
 
 <details><summary>Choose a topic...</summary>
 
